@@ -1,6 +1,6 @@
 <?php
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Nishar_ShippingMethod',
+    'Nishar_CustomRegistor',
     __DIR__
 );
